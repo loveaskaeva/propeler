@@ -16,10 +16,13 @@
 ## Структура проекта
 ```text
 propeler/
-├── index.html    # Главная страница
-├── style.css     # Файл стилей
-├── script.js     # Файл скриптов
-└── .gitignore    # Игнорируемые файлы Git
+├── index.html          # Главная страница
+├── style.css           # Файл стилей
+├── script.js           # Файл скриптов
+├── USER_STORIES.md     # Описание User Stories
+├── GITHUB_GUIDE.md     # Инструкция по работе с репозиторием
+├── PR_DESCRIPTION.md   # Шаблон описания Pull Request
+└── .gitignore          # Игнорируемые файлы Git
 ```
 
 ## Переменные окружения проекта
